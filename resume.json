@@ -28,7 +28,7 @@
       "position": "Software Engineer",
       "website": "https://meltwater.com",
       "startDate": "2017-06-01",
-      "endDate": "?",
+      "endDate": "",
       "summary": "",
       "highlights": []
     },
@@ -57,8 +57,8 @@
       "institution": "Istanbul Bilgi University",
       "area": "Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-01",
       "gpa": "3.92",
       "courses": []
     }
