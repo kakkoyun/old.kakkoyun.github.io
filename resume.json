@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Kemal Akkoyun",
+    "label": "Programmer",
+    "picture": "",
+    "email": "kakkoyun@gmail.com",
+    "phone": "",
+    "website": "kakkoyun.github.io",
+    "summary": "a Software engineer who loves building things.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": "Brandenburg"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kemal.akkoyun",
+        "url": "https://www.linkedin.com/in/kemalakkoyun"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Meltwater",
+      "position": "Software Engineer",
+      "website": "https://meltwater.com",
+      "startDate": "2017-06-01",
+      "endDate": "?",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Vispera",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2014-08-01",
+      "endDate": "2017-05-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Fazlamesai",
+      "position": "Product Engineer",
+      "website": "",
+      "startDate": "2012-10-01",
+      "endDate": "2016-05-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Istanbul Bilgi University",
+      "area": "Computer Science",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "3.92",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Elixir",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": ""
+    },
+    {
+      "language": "Turkish",
+      "fluency": ""
+    },
+    {
+      "language": "German",
+      "fluency": ""
+    }
+  ],
+  "interests": [],
+  "references": []
+}
